@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/catalog/management" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/media" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/requirements.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/css/album.css" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap-grid.css" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap-grid.css.map" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap-grid.min.css" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap-grid.min.css.map" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap-reboot.css" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap-reboot.css.map" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap-reboot.min.css" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap-reboot.min.css.map" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap.css" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap.css.map" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap.min.css" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap.min.css.map" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/js/bootstrap.bundle.js" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/js/bootstrap.bundle.js.map" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/js/bootstrap.bundle.min.js" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/js/bootstrap.bundle.min.js.map" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/js/bootstrap.js" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/js/bootstrap.js.map" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/js/bootstrap.min.js" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/js/bootstrap.min.js.map" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/js/holder.min.js" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/static/js/popper.min.js" charset="windows-1251" />
+  </component>
+</project>
